@@ -1,4 +1,4 @@
-package com.java.sigleton;
+package com.java.单例;
 
 /**
  * 懒汉式单例
